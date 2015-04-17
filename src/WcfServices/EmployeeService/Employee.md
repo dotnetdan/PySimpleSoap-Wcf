@@ -1,0 +1,1 @@
+﻿This service is for testing data contracts with deep inheritance combined with collections.

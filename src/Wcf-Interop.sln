@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ClientTests", "ClientTests\ClientTests.pyproj", "{44AA7828-23F8-4E31-AAE1-99C06D7616BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfServices", "WcfServices\WcfServices.csproj", "{BAFF4E02-7995-428C-8136-C731FF3A7CAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44AA7828-23F8-4E31-AAE1-99C06D7616BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44AA7828-23F8-4E31-AAE1-99C06D7616BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44AA7828-23F8-4E31-AAE1-99C06D7616BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44AA7828-23F8-4E31-AAE1-99C06D7616BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAFF4E02-7995-428C-8136-C731FF3A7CAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAFF4E02-7995-428C-8136-C731FF3A7CAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAFF4E02-7995-428C-8136-C731FF3A7CAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAFF4E02-7995-428C-8136-C731FF3A7CAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
